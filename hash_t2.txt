@@ -1,0 +1,6 @@
+5
+0 abcd 48
+1 abdd 22
+1 dfdf 38
+2 wewe 40
+4 wlew 537
